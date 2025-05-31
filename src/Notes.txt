@@ -1,0 +1,10 @@
+Run the following command to create a new virtual environment with Python 3 on it:
+$ pipenv install --python 3
+Run the following command on your terminal to install the Flask package:
+$ pipenv install flask
+
+Instalar:
+pip3 install flask
+pip3 install flask-cors
+pip3 install pytest
+pip3 install mock
